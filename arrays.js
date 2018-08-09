@@ -18,3 +18,4 @@ function destructivelyRemoveElementFromBeginningOfArray(array) {[array.shift()];
 function removeElementFromBeginningOfArray(array) {
   return array.slice(1)}
   
+  function
